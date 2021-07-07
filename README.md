@@ -24,3 +24,5 @@ Things you may want to cover:
 * ...
 
 Curso Ruby on Rails
+
+I'm learning
